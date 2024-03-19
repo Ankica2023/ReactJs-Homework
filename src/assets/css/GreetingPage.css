@@ -1,0 +1,22 @@
+#greeting {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: plum;
+
+}
+
+#content {
+    text-align: center;
+}
+
+.header {
+    color: darkgray;
+    margin-bottom: 20px;
+
+}
+
+.message {
+    color: pink;
+}
