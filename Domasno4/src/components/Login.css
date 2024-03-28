@@ -1,0 +1,44 @@
+body {
+    background-color: #c0e4ff;
+}
+.login-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  
+  .login-dropdown {
+    margin-bottom: 15px;
+  }
+  
+  
+  .login-comment {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid ;
+    border-radius: 5px;
+    resize: none; }
+  
+  
+  .login-button {
+    
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  
+  .login-password {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
